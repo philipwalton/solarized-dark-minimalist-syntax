@@ -1,0 +1,11 @@
+{
+  "name": "solarized-dark-minimalist-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A minimalist dark syntax theme using the solarized colors",
+  "repository": "https://github.com/philipwalton/solarized-dark-minimalist-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
